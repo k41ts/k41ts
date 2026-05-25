@@ -29,7 +29,7 @@ Full stack developer from Jakarta. I build practical web apps and keep most of m
 <p align="center"><strong>Tools</strong></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,xampp,docker,git,github,vercel" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vercel" alt="Tools" />
 </p>
 
 ## GitHub
