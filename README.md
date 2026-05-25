@@ -3,14 +3,14 @@ Full stack developer from Jakarta. I build practical web apps and keep most of m
 
 ## Current work
 
-- [zaidanikram.github.io](https://github.com/k41ts/zaidanikram.github.io) - personal site
+-[EduQuest](https://github.com/k41ts/eduquest) - Web App for Education 
 - [webasrama](https://github.com/k41ts/webasrama) - web app for asrama workflows
 - [tokokue](https://github.com/k41ts/tokokue) - bakery and order management project
 - [sewahotel](https://github.com/k41ts/sewahotel) - hotel rental project
 - [pengaduan](https://github.com/k41ts/pengaduan) - complaint reporting system
 - [EmployeeManagement](https://github.com/k41ts/EmployeeManagement) - employee management app
-- [agrichain](https://github.com/k41ts/agrichain) - active project from recent GitHub activity
-- [researchmethodkai](https://github.com/k41ts/researchmethodkai) - recent project work
+- [Agrichain](https://github.com/k41ts/agrichain) - prototype agriculture web app system with blockchain
+
 
 ## Stack
 
