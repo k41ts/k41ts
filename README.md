@@ -43,7 +43,12 @@ Full stack developer from Jakarta. I build practical web apps and keep most of m
   <img src="https://streak-stats.demolab.com?user=k41ts&theme=github-dark-blue&background=0d1117&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/k41ts/output/snake.svg" alt="Contribution graph animation" />
+</p>
+
 ## Connect
 
 - [GitHub](https://github.com/k41ts)
 - [Instagram](https://instagram.com/k41ts)
+- [Linkedin](https://www.linkedin.com/in/zaidanikram/)
