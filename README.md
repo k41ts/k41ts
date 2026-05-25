@@ -3,8 +3,8 @@ Full stack developer from Jakarta. I build practical web apps and keep most of m
 
 ## Current work
 
--[EduQuest](https://github.com/k41ts/eduquest) - Web App for Education 
 - [webasrama](https://github.com/k41ts/webasrama) - web app for asrama workflows
+- [EduQuest](https://github.com/k41ts/eduquest) - Web App for Education 
 - [tokokue](https://github.com/k41ts/tokokue) - bakery and order management project
 - [sewahotel](https://github.com/k41ts/sewahotel) - hotel rental project
 - [pengaduan](https://github.com/k41ts/pengaduan) - complaint reporting system
