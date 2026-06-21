@@ -1,16 +1,24 @@
-# Hi, I'm Zaidan Ikram
-Full stack developer from Jakarta. I build practical web apps and keep most of my work centered on tools I actually use.
+# Hi, I'm Zaidan Ikram 👋
 
-## Current work
+Full Stack Developer and Computer Science Student from Jakarta, Indonesia.
 
-- [webasrama](https://github.com/k41ts/webasrama) - web app for asrama workflows
-- [EduQuest](https://github.com/k41ts/eduquest) - Web App for Education 
-- [tokokue](https://github.com/k41ts/tokokue) - bakery and order management project
-- [sewahotel](https://github.com/k41ts/sewahotel) - hotel rental project
-- [pengaduan](https://github.com/k41ts/pengaduan) - complaint reporting system
-- [EmployeeManagement](https://github.com/k41ts/EmployeeManagement) - employee management app
-- [Agrichain](https://github.com/k41ts/agrichain) - prototype agriculture web app system with blockchain
+I build practical web and mobile applications and enjoy working on backend systems, scalable architectures, and real-world products.
 
+## Current Work
+
+### 🚀 Latest Project
+
+- [KaiLocate](https://github.com/k41ts/kailocate) - Real-time location sharing mobile application built with React Native, Expo, Firebase, and Google Maps integration.
+
+### Other Projects
+
+- [WebAsrama](https://github.com/k41ts/webasrama) - Web app for dormitory management and workflows
+- [EduQuest](https://github.com/k41ts/eduquest) - Adaptive learning platform for education
+- [Tokokue](https://github.com/k41ts/tokokue) - Bakery and order management project
+- [SewaHotel](https://github.com/k41ts/sewahotel) - Hotel rental project
+- [Pengaduan](https://github.com/k41ts/pengaduan) - Complaint reporting system
+- [EmployeeManagement](https://github.com/k41ts/EmployeeManagement) - Employee management application
+- [Agrichain](https://github.com/k41ts/agrichain) - Prototype agriculture web application with blockchain technology
 
 ## Stack
 
@@ -20,10 +28,24 @@ Full stack developer from Jakarta. I build practical web apps and keep most of m
   <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,java,html,css,php" alt="Languages" />
 </p>
 
-<p align="center"><strong>Web and app development</strong></p>
+<p align="center"><strong>Web and App Development</strong></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,tailwind,laravel,flutter,vite,arduino" alt="Web and app development" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,tailwind,laravel,flutter,vite" alt="Web and app development" />
+</p>
+
+<p align="center">
+  <img width="48" src="https://cdn.simpleicons.org/antdesign" alt="Ant Design" />
+</p>
+
+<p align="center"><strong>Mobile Development</strong></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase" alt="Mobile development" />
+</p>
+
+<p align="center">
+  <img width="48" src="https://cdn.simpleicons.org/expo" alt="Expo" />
 </p>
 
 <p align="center"><strong>Tools</strong></p>
@@ -33,6 +55,9 @@ Full stack developer from Jakarta. I build practical web apps and keep most of m
 </p>
 
 ## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=k41ts&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&count
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=k41ts&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&count_private=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage" height="180" alt="GitHub stats"/>
