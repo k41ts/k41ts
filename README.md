@@ -12,7 +12,6 @@ I build practical web and mobile applications and enjoy working on backend syste
 
 ### Other Projects
 
-- [WebAsrama](https://github.com/k41ts/webasrama) - Web app for dormitory management and workflows
 - [EduQuest](https://github.com/k41ts/eduquest) - Adaptive learning platform for education
 - [Tokokue](https://github.com/k41ts/tokokue) - Bakery and order management project
 - [SewaHotel](https://github.com/k41ts/sewahotel) - Hotel rental project
