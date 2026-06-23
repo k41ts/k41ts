@@ -9,6 +9,7 @@ I build practical web and mobile applications and enjoy working on backend syste
 ### 🚀 Latest Project
 
 - [KaiLocate](https://github.com/k41ts/kailocate) - Real-time location sharing mobile application built with React Native, Expo, Firebase, and Google Maps integration.
+- [KaiCash](https://github.com/k41ts/kaicash) - Family expense tracking application for monitoring allowances, spending, and budgeting between parents and children.
 
 ### Other Projects
 
