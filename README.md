@@ -15,6 +15,7 @@ I build practical web and mobile applications and enjoy working on backend syste
 
 ### Other Projects
 - [Agrichain](https://github.com/k41ts/agrichain) - Prototype agriculture web application with blockchain technology
+- [KaiDesign1](https://github.com/k41ts/kaidesign1) - Game UI Design Basic on Honkai Star Rail 
 
 ## Stack
 
