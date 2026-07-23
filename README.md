@@ -11,14 +11,9 @@ I build practical web and mobile applications and enjoy working on backend syste
 - [KaiLocate](https://github.com/k41ts/kailocate) - Real-time location sharing mobile application built with React Native, Expo, Firebase, and Google Maps integration.
 - [KaiCash](https://github.com/k41ts/kaicash) - Family expense tracking application for monitoring allowances, spending, and budgeting between parents and children.
 - [KaiAlpha](https://github.com/k41ts/kaialpha) - Personal Stock Analyst Website with news,fundamental,chart
+- [EduQuest](https://github.com/k41ts/eduquest) - Adaptive learning platform for education with gamification
 
 ### Other Projects
-
-- [EduQuest](https://github.com/k41ts/eduquest) - Adaptive learning platform for education
-- [Tokokue](https://github.com/k41ts/tokokue) - Bakery and order management project
-- [SewaHotel](https://github.com/k41ts/sewahotel) - Hotel rental project
-- [Pengaduan](https://github.com/k41ts/pengaduan) - Complaint reporting system
-- [EmployeeManagement](https://github.com/k41ts/EmployeeManagement) - Employee management application
 - [Agrichain](https://github.com/k41ts/agrichain) - Prototype agriculture web application with blockchain technology
 
 ## Stack
