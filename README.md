@@ -14,9 +14,9 @@ I build practical web and mobile applications and enjoy working on backend syste
 - [EduQuest](https://github.com/k41ts/eduquest) - Adaptive learning platform for education with gamification
 
 ### Other Projects
--[Hypercarage](https://github.com/k41ts/hypercar-garage) - Cinematic 3D hypercar showcase
 - [Agrichain](https://github.com/k41ts/agrichain) - Prototype agriculture web application with blockchain technology
-- [KaiDesign1](https://github.com/k41ts/kaidesign1) - Game UI Design Basic on Honkai Star Rail 
+- [KaiDesign1](https://github.com/k41ts/kaidesign1) - Game UI Design Basic on Honkai Star Rail
+- [Hypercarage](https://github.com/k41ts/hypercar-garage) - Cinematic 3D hypercar showcase
 
 ## Stack
 
