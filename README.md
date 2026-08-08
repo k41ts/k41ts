@@ -12,6 +12,7 @@ I build practical web and mobile applications and enjoy working on backend syste
 - [KaiCash](https://github.com/k41ts/kaicash) - Family expense tracking application for monitoring allowances, spending, and budgeting between parents and children.
 - [KaiAlpha](https://github.com/k41ts/kaialpha) - Personal Stock Analyst Website with news,fundamental,chart
 - [EduQuest](https://github.com/k41ts/eduquest) - Adaptive learning platform for education with gamification
+- [HakaiTask](https://github.com/k41ts/hakaitask) - Personal To do list agent with chat input
 
 ### Other Projects
 - [Agrichain](https://github.com/k41ts/agrichain) - Prototype agriculture web application with blockchain technology
