@@ -32,7 +32,7 @@ I build practical web and mobile applications and enjoy working on backend syste
 <p align="center"><strong>Web and App Development</strong></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,tailwind,laravel,flutter,vite" alt="Web and app development" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,tailwind,laravel,flutter,vite,nodejs,redux" alt="Web and app development" />
 </p>
 
 <p align="center">
@@ -49,18 +49,23 @@ I build practical web and mobile applications and enjoy working on backend syste
   <img width="48" src="https://cdn.simpleicons.org/expo" alt="Expo" />
 </p>
 
-<p align="center"><strong>Tools</strong></p>
+<p align="center"><strong>Database & Backend</strong></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vercel" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma" alt="Database and backend" />
+</p>
+
+<p align="center"><strong>Tools & DevOps</strong></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,figma" alt="Tools and DevOps" />
 </p>
 
 ## GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=k41ts&theme=github-dark-blue&background=0d1117&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=k41ts&theme=github-dark-blue&background=0d1117&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </p>
-
 
 ## Connect
 
