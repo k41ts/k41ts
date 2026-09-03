@@ -12,7 +12,7 @@ I build practical web and mobile applications and enjoy working on backend syste
 - [KaiCash](https://github.com/k41ts/kaicash) - Family expense tracking application for monitoring allowances, spending, and budgeting between parents and children.
 - [HakaiTask](https://github.com/k41ts/hakaitask) - Personal To do list agent with chat input
 - [HakaiMusic](https://github.com/k41ts/hakaimusic) - Music streaming application with personalized recommendations
-- [ClaudeLimitWatcher](https://github.com/k41ts/claudelimitwatcher) - Monitor and track Claude API usage limits
+- [ClaudeLimitWatcher](https://github.com/k41ts/claudelimitwatch) - Monitor and track Claude API usage limits
 
 ### Other Projects
 - [EduQuest](https://github.com/k41ts/eduquest) - Adaptive learning platform for education with gamification
