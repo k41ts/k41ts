@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="290" viewBox="0 0 500 290">
+<defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#fff" stroke-opacity=".03"/></pattern><radialGradient id="g" cx="1" cy="0" r="1"><stop offset="0" stop-color="#fff" stop-opacity=".045"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient></defs>
+<style>@keyframes pulse{0%{transform:scale(1);opacity:.8}100%{transform:scale(3);opacity:0}}.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2s ease-out infinite}.sw{animation:sw 5s cubic-bezier(.6,0,.4,1) infinite}@keyframes sw{0%{transform:translateX(-160px)}55%,100%{transform:translateX(660px)}}</style>
+<rect x=".5" y=".5" width="499" height="289" rx="16" fill="#111113"/>
+<rect x=".5" y=".5" width="499" height="289" rx="16" fill="url(#grid)"/>
+<rect x=".5" y=".5" width="499" height="289" rx="16" fill="url(#g)"/>
+<g class="sw"><rect x="0" y="0" width="120" height="1.5" fill="#fff" fill-opacity=".45"/></g>
+<rect x=".5" y=".5" width="499" height="289" rx="16" fill="none" stroke="rgba(255,255,255,.14)"/>
+
+<text x="28" y="44" font-family="'Geist Mono',ui-monospace,'Cascadia Mono',Consolas,monospace" font-size="12" letter-spacing=".12em" fill="#e0a85a">05</text>
+<text x="56" y="44" font-family="'Geist Mono',ui-monospace,'Cascadia Mono',Consolas,monospace" font-size="12" letter-spacing=".06em" fill="#8f8e93">Multiplayer web game · Oct 2026</text>
+<circle cx="424" cy="40" r="3.5" fill="#5fd39a"/><circle class="pulse" cx="424" cy="40" r="3.5" fill="#5fd39a"/><text x="436" y="44" font-family="'Geist Mono',ui-monospace,'Cascadia Mono',Consolas,monospace" font-size="11.5" fill="#5fd39a">Live</text>
+<text x="28" y="94" font-family="Geist,'Segoe UI',system-ui,sans-serif" font-size="32" font-weight="600" letter-spacing="-.035em" fill="#f2f1ee">Pokerizz</text>
+<text x="28" y="122" font-family="Geist,'Segoe UI',system-ui,sans-serif" font-size="13.5" fill="#8f8e93">Sole designer &amp; developer</text>
+<text y="160" font-family="Geist,'Segoe UI',system-ui,sans-serif" font-size="15" fill="#c9c8cc"><tspan x="28" dy="0">Kartu Duel, a poker duel for two: play a combo and the</tspan><tspan x="28" dy="21">score gap becomes damage. Online with friends, ranked, or</tspan><tspan x="28" dy="21">vs a bot.</tspan></text>
+<rect x="28" y="226" width="88" height="24" rx="6" fill="#17171a" stroke="rgba(255,255,255,.08)"/><text x="72" y="242" text-anchor="middle" font-family="'Geist Mono',ui-monospace,'Cascadia Mono',Consolas,monospace" font-size="11.5" fill="#c9c8cc">Next.js 16</text><rect x="124" y="226" width="138" height="24" rx="6" fill="#17171a" stroke="rgba(255,255,255,.08)"/><text x="193" y="242" text-anchor="middle" font-family="'Geist Mono',ui-monospace,'Cascadia Mono',Consolas,monospace" font-size="11.5" fill="#c9c8cc">Supabase Realtime</text><rect x="270" y="226" width="59" height="24" rx="6" fill="#17171a" stroke="rgba(255,255,255,.08)"/><text x="300" y="242" text-anchor="middle" font-family="'Geist Mono',ui-monospace,'Cascadia Mono',Consolas,monospace" font-size="11.5" fill="#c9c8cc">Motion</text><rect x="338" y="226" width="59" height="24" rx="6" fill="#17171a" stroke="rgba(255,255,255,.08)"/><text x="367" y="242" text-anchor="middle" font-family="'Geist Mono',ui-monospace,'Cascadia Mono',Consolas,monospace" font-size="11.5" fill="#c9c8cc">Vitest</text>
+</svg>

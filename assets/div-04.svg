@@ -1,9 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="44" viewBox="0 0 1000 44">
-<style>.t{font:600 13px 'JetBrains Mono','SF Mono',Consolas,Menlo,monospace;letter-spacing:.22em} .run{animation:run 3.5s linear infinite}
-@keyframes run{from{transform:translateX(0)}to{transform:translateX(820px)}}</style>
+<style>.t{font:500 12.5px 'Geist Mono',ui-monospace,'Cascadia Mono',Consolas,monospace;letter-spacing:.16em}
+.run{animation:run 4s cubic-bezier(.6,0,.4,1) infinite}@keyframes run{from{transform:translateX(0)}to{transform:translateX(821px)}}</style>
 <text class="t" x="0" y="27" fill="#e0a85a">04</text>
-<text class="t" x="44" y="27" fill="#f2f1ee">THE LAB</text>
-<line x1="137" x2="1000" y1="22" y2="22" stroke="#232327" stroke-width="1.5"/>
-<g class="run"><rect x="137" y="21" width="80" height="2" fill="#e0a85a"/></g>
-<rect x="992" y="18" width="8" height="8" fill="#e0a85a"/>
+<text class="t" x="36" y="27" fill="#f2f1ee">THE LAB</text>
+<line x1="119" x2="1000" y1="22.5" y2="22.5" stroke="#fff" stroke-opacity=".08"/>
+<g class="run"><rect x="119" y="22" width="60" height="1.5" fill="#fff" fill-opacity=".5"/></g>
 </svg>

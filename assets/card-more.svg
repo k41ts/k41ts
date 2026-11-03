@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="290" viewBox="0 0 500 290">
+<defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#fff" stroke-opacity=".03"/></pattern><radialGradient id="g" cx="1" cy="0" r="1"><stop offset="0" stop-color="#fff" stop-opacity=".045"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient></defs>
+<style>@keyframes pulse{0%{transform:scale(1);opacity:.8}100%{transform:scale(3);opacity:0}}.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2s ease-out infinite}.sw{animation:sw 5s cubic-bezier(.6,0,.4,1) infinite}@keyframes sw{0%{transform:translateX(-160px)}55%,100%{transform:translateX(660px)}}</style>
+<rect x=".5" y=".5" width="499" height="289" rx="16" fill="#111113"/>
+<rect x=".5" y=".5" width="499" height="289" rx="16" fill="url(#grid)"/>
+<rect x=".5" y=".5" width="499" height="289" rx="16" fill="url(#g)"/>
+<g class="sw"><rect x="0" y="0" width="120" height="1.5" fill="#fff" fill-opacity=".45"/></g>
+<rect x=".5" y=".5" width="499" height="289" rx="16" fill="none" stroke="rgba(255,255,255,.14)"/>
+
+<text x="28" y="44" font-family="'Geist Mono',ui-monospace,'Cascadia Mono',Consolas,monospace" font-size="12" letter-spacing=".12em" fill="#e0a85a">+</text>
+<text x="56" y="44" font-family="'Geist Mono',ui-monospace,'Cascadia Mono',Consolas,monospace" font-size="12" letter-spacing=".06em" fill="#8f8e93">Case studies · screenshots · CV</text>
+<text x="28" y="132" font-family="Geist,'Segoe UI',system-ui,sans-serif" font-size="32" font-weight="600" letter-spacing="-.035em" fill="#f2f1ee">See the full work</text>
+<text x="28" y="166" font-family="Geist,'Segoe UI',system-ui,sans-serif" font-size="15" fill="#8f8e93">Every product above, with what it does and how it was built.</text>
+<rect x="28" y="212" width="196" height="40" rx="10" fill="#f2f1ee"/>
+<text x="46" y="237" font-family="Geist,'Segoe UI',system-ui,sans-serif" font-size="14" font-weight="500" fill="#0b0b0c">zaidanikram.id  →</text>
+</svg>
