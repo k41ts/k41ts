@@ -40,7 +40,7 @@
     <rect width="372" height="30" rx="15" fill="#111113" stroke="rgba(255,255,255,.14)"/>
     <circle cx="17" cy="15" r="3.5" fill="#5fd39a"/><circle class="pulse" cx="17" cy="15" r="3.5" fill="#5fd39a"/>
     <text x="30" y="19.5" font-family="Geist,'Segoe UI',system-ui,sans-serif" font-size="13" font-weight="600" fill="#f2f1ee">Available</text>
-    <text x="98" y="19.5" font-family="Geist,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#8f8e93">Full-time work for one year, starting 2027</text>
+    <text x="98" y="19.5" font-family="Geist,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#8f8e93">Full-time in 2027 · BINUS Enrichment Program</text>
   </g>
 
   <text class="k" x="56" y="122">&gt; ZAIDAN.PROFILE<tspan class="blink"> _</tspan></text>
@@ -51,7 +51,7 @@
 
   <!-- stats strip, like the hero on the site -->
   <rect x="56" y="344" width="600" height="84" rx="14" fill="#111113" fill-opacity=".6" stroke="rgba(255,255,255,.08)"/>
-  <g transform="translate(56 344)"><text x="18" y="38" class="sv">9</text><text x="18" y="60" class="sl">Products shipped</text></g><g transform="translate(206 344)"><text x="18" y="38" class="sv">15</text><text x="18" y="60" class="sl">People led</text></g><line x1="206" x2="206" y1="352" y2="420" stroke="rgba(255,255,255,.08)"/><g transform="translate(356 344)"><text x="18" y="38" class="sv">1,604</text><text x="18" y="60" class="sl">Exam questions live</text></g><line x1="356" x2="356" y1="352" y2="420" stroke="rgba(255,255,255,.08)"/><g transform="translate(506 344)"><text x="18" y="38" class="sv">&lt;24h</text><text x="18" y="60" class="sl">Reply time</text></g><line x1="506" x2="506" y1="352" y2="420" stroke="rgba(255,255,255,.08)"/>
+  <g transform="translate(56 344)"><text x="18" y="38" class="sv">10</text><text x="18" y="60" class="sl">Products built</text></g><g transform="translate(206 344)"><text x="18" y="38" class="sv">15</text><text x="18" y="60" class="sl">People led</text></g><line x1="206" x2="206" y1="352" y2="420" stroke="rgba(255,255,255,.08)"/><g transform="translate(356 344)"><text x="18" y="38" class="sv">4</text><text x="18" y="60" class="sl">Paid roles since 2022</text></g><line x1="356" x2="356" y1="352" y2="420" stroke="rgba(255,255,255,.08)"/><g transform="translate(506 344)"><text x="18" y="38" class="sv">3</text><text x="18" y="60" class="sl">Platforms: web, Android, Win</text></g><line x1="506" x2="506" y1="352" y2="420" stroke="rgba(255,255,255,.08)"/>
 
   <!-- zaidan.profile window -->
   <rect x="772" y="44" width="372" height="392" rx="18" fill="#111113" stroke="rgba(255,255,255,.14)"/>
@@ -72,7 +72,7 @@
   <g class="float">
     <rect x="948" y="240" width="176" height="56" rx="10" fill="#111113" fill-opacity=".92" stroke="#5fd39a" stroke-opacity=".35"/>
     <text class="m" x="962" y="262" font-size="11.5" fill="#8f8e93">Open to</text>
-    <text x="962" y="283" font-family="Geist,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#5fd39a">Full-time · 1 year · 2027</text>
+    <text x="962" y="283" font-family="Geist,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#5fd39a">Full-time · 12 months · 2027</text>
   </g>
   <g class="float2">
     <rect x="744" y="344" width="250" height="56" rx="10" fill="#111113" fill-opacity=".94" stroke="rgba(255,255,255,.14)"/>
@@ -87,7 +87,7 @@
   <!-- boot progress -->
   <rect x="56" y="452" width="220" height="2" rx="1" fill="#fff" fill-opacity=".08"/>
   <rect class="bar" x="56" y="452" width="40" height="2" rx="1" fill="#e0a85a"/>
-  <text class="m" x="292" y="457" font-size="10.5" letter-spacing=".12em" fill="#5d5c62">BUILDING SINCE 2022</text>
+  <text class="m" x="292" y="457" font-size="10.5" letter-spacing=".12em" fill="#5d5c62">PAID WORK SINCE 2022</text>
 </g>
 <rect x="1" y="1" width="1198" height="478" rx="20" fill="none" stroke="rgba(255,255,255,.14)"/>
 </svg>

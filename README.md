@@ -1,9 +1,9 @@
 <a href="https://zaidanikram.id">
-  <img src="./assets/header.svg" width="100%" alt="Zaidan Ikram, full-stack engineer and tech lead in Jakarta. Available for full-time work for one year, starting 2027." />
+  <img src="./assets/header.svg" width="100%" alt="Zaidan Ikram, full-stack engineer in Jakarta. Available full-time for 12 months in 2027 through the BINUS Enrichment Program." />
 </a>
 
 <p align="center">
-  <a href="https://zaidanikram.id"><img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=16&duration=2600&pause=900&color=C9C8CC&center=true&vCenter=true&width=760&lines=%3E+I+build+and+run+the+tech+behind+your+product;%3E+Led+15+people+across+4+workstreams+on+FundChain;%3E+9+products+shipped+%C2%B7+web%2C+Android%2C+desktop%2C+on-chain;%3E+Open+to+full-time+work+%C2%B7+1+year+%C2%B7+from+2027" alt="Typing intro" /></a>
+  <a href="https://zaidanikram.id"><img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=16&duration=2600&pause=900&color=C9C8CC&center=true&vCenter=true&width=760&lines=%3E+Full-stack+engineer+%C2%B7+CS+%40+BINUS+University;%3E+Led+15+people+across+4+workstreams+on+FundChain;%3E+10+products+built+%C2%B7+web%2C+Android%2C+desktop%2C+on-chain;%3E+Full-time+in+2027+%C2%B7+BINUS+Enrichment+Program" alt="Typing intro" /></a>
 </p>
 
 <p align="center">
@@ -26,18 +26,17 @@ const kai = {
   focus:     ["system design", "auth & RLS",
               "payments", "offline-first sync"],
   building:  "since 2022",
-  openTo:    "full-time · 1 year · starting 2027",
-  replyTime: "< 24h",
+  openTo:    "full-time · 12 months · 2027 (BINUS Enrichment Program)",
 };
 ```
 
 <img src="./assets/div-02.svg" width="100%" alt="02 Leadership" />
 
-<a href="https://github.com/Fundchainbinus/fundchain">
-  <img src="./assets/feature-fundchain.svg" width="100%" alt="FundChain: tech lead for a team of 15 across 4 workstreams, 105 Jira issues, 19 spec conflicts resolved." />
+<a href="https://zaidanikram.id/work/fundchain">
+  <img src="./assets/feature-fundchain.svg" width="100%" alt="FundChain, a university project: tech lead for a team of 15 across 4 workstreams, 99 Jira tasks, 19 spec conflicts resolved." />
 </a>
 
-<img src="./assets/div-03.svg" width="100%" alt="03 Shipped" />
+<img src="./assets/div-03.svg" width="100%" alt="03 Built" />
 
 <p align="center">
   <a href="https://passinglab.id"><img src="./assets/card-passinglab.svg" width="49%" alt="PassingLab" /></a>
@@ -101,4 +100,4 @@ const kai = {
   <a href="https://www.instagram.com/kai6v/"><img src="https://img.shields.io/badge/INSTAGRAM-kai6v-17171a?style=for-the-badge&logo=instagram&logoColor=f2f1ee&labelColor=111113" alt="Instagram" /></a>
 </p>
 
-<p align="center"><sub><code>// replies within 24h · Jakarta, UTC+7</code></sub></p>
+<p align="center"><sub><code>// Jakarta, UTC+7</code></sub></p>

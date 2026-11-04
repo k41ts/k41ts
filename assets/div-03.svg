@@ -2,7 +2,7 @@
 <style>.t{font:500 12.5px 'Geist Mono',ui-monospace,'Cascadia Mono',Consolas,monospace;letter-spacing:.16em}
 .run{animation:run 4s cubic-bezier(.6,0,.4,1) infinite}@keyframes run{from{transform:translateX(0)}to{transform:translateX(821px)}}</style>
 <text class="t" x="0" y="27" fill="#e0a85a">03</text>
-<text class="t" x="36" y="27" fill="#f2f1ee">SHIPPED</text>
+<text class="t" x="36" y="27" fill="#f2f1ee">BUILT</text>
 <line x1="119" x2="1000" y1="22.5" y2="22.5" stroke="#fff" stroke-opacity=".08"/>
 <g class="run"><rect x="119" y="22" width="60" height="1.5" fill="#fff" fill-opacity=".5"/></g>
 </svg>
